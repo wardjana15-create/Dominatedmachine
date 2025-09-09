@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://www.aiproductivityhub.com/sitemap.xml
